@@ -1,0 +1,14 @@
+https://www.kaggle.com/datasets/yuvjeetarora/student-job-profile/data
+
+About Dataset
+This dataset offers a detailed view of students' technical and soft skills, along with their participation in hackathons and proficiency in specific tools or languages. 
+It's ideal for educational institutions, recruiters, or researchers interested in analyzing skill trends and placement suitability among students. The dataset covers areas like DSA, DBMS, Operating Systems, Mathematics, and various soft skills, providing a holistic view of each student's capabilities.
+
+This dataset could be used to analyze the skills and interests of students, helping in determining their suitability for different professional profiles like UI/UX, development, data science, etc.
+
+關於數據集
+該資料集提供了學生技術和軟技能的詳細視圖，以及他們對黑客馬拉鬆的參與以及對特定工具或語言的熟練程度。 
+它非常適合有興趣分析學生技能趨勢和安置適合性的教育機構、招募人員或研究人員。 
+此資料集涵蓋 DSA、DBMS、作業系統、數學和各種軟技能等領域，提供每個學生能力的整體視圖。
+
+此資料集可用於分析學生的技能和興趣，幫助確定他們是否適合不同的專業背景，如 UI/UX、開發、資料科學等。
